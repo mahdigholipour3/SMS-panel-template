@@ -1,0 +1,12 @@
+    .box-login {
+        display: block;
+    }
+    
+    .formlogin {
+        width: 100%;
+        border: 0;
+    }
+    
+    .login-page {
+        max-width: 710px;
+    }
